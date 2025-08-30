@@ -10,6 +10,7 @@ import { generateScript } from "@/lib/api";
 import { useToast } from "@/hooks/use-toast";
 
 const Index = () => {
+  
   const { toast } = useToast();
   const [apiKey, setApiKey] = useState<string>("");
   const [scriptInput, setScriptInput] = useState("");
@@ -20,6 +21,7 @@ const Index = () => {
   const [length, setLength] = useState("medium");
   const [format, setFormat] = useState("Instagram Reel");
   const [isGenerating, setIsGenerating] = useState(false);
+  const [isLoading, setIsLoading] = useState(true);
   
   // Output state
   const [generatedScript, setGeneratedScript] = useState("");
@@ -31,9 +33,15 @@ const Index = () => {
 
   // Check for existing API key on component mount
   useEffect(() => {
-    const storedApiKey = localStorage.getItem("openrouter_api_key");
-    if (storedApiKey) {
-      setApiKey(storedApiKey);
+    try {
+      const storedApiKey = localStorage.getItem("openrouter_api_key");
+      if (storedApiKey) {
+        setApiKey(storedApiKey);
+      }
+    } catch (error) {
+      console.error('Error accessing localStorage:', error);
+    } finally {
+      setIsLoading(false);
     }
   }, []);
 
@@ -82,6 +90,21 @@ const Index = () => {
       setIsGenerating(false);
     }
   };
+
+  // Show loading state
+  if (isLoading) {
+    return (
+      <div className="min-h-screen bg-background flex items-center justify-center">
+        <div className="text-center space-y-4">
+          <div className="w-16 h-16 mx-auto bg-gradient-primary rounded-full flex items-center justify-center animate-pulse">
+            <Sparkles className="w-8 h-8 text-primary-foreground" />
+          </div>
+          <h2 className="text-xl font-bold text-glass-foreground">Loading Vibe Script...</h2>
+          <p className="text-muted-foreground">Please wait while we set up your experience</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-background">
