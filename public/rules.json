@@ -1,0 +1,150 @@
+{
+    "hooks": [
+        {
+            "pattern": "(Action) (Result) using (Ways)",
+            "examples": [
+                "Clg padikum bodhe, Lakhs la earn panradhuku 3 Underrated side incomes.",
+                "Marriage pannum bodhu, Kadane vangama kalyanam panni vekka, 3 Tips."
+            ]
+        },
+        {
+            "pattern": "Ivangalu ___ , Ivangalu ___ ana ivangala ___ , ivangala ___ OR Ipdi irundha ___ ipdi aagiduchu",
+            "examples": [
+                "Ivangalu business panranga , but ivanga profit panranga , ivanga loss la poranga.",
+                "Ipdi irundha america ipdi aana maari ,0 la irukura income , lakhs ku poga"
+            ]
+        },
+        {
+            "pattern": "Oru/Unga ___ ah epdi ___ nu 60 Seconds la solren.",
+            "examples": [
+                "Oru product ah vikkuradhu epdi nu 60 Seconds la solren.",
+                "Unga clg fees ah neengale epdi katradhu nu 60 Seconds la solren."
+            ]
+        },
+        {
+            "pattern": "Neenga (Desire) , (No Need) , na solra indha (Steps) panna podhum.",
+            "examples": [
+                "Neenga Olli ah theriya , workout panna mattu pathadhu , na solra indha 4 tips ah uh follow pannanu.",
+                "Neenga part time la 30k earn panna , daily 10 mani neram Vela seiya theva illa , na solra maari pana 4 hours work edu podhum."
+            ]
+        },
+        {
+            "pattern": "(TG) , (Action) , (Appreciation)",
+            "examples": [
+                "Ponnunga, pottu vecha alagu",
+                "Pasanga Meesaya murukuna extra mass"
+            ]
+        },
+        {
+            "pattern": "(TG) (TG) , (Action) (Reason) , (Problem & Solution)",
+            "examples": [
+                "Kalaila Jogging Poradhu , Evening Workout panradhu , Healthy iruka dhana? , Aprm en indha 5 foods ah saptu health ah keduthukuringa?"
+            ]
+        },
+        {
+            "pattern": "(Factor) (Factor)",
+            "examples": [
+                "Unga kitta 5 days leave irundha , 10 Skills kathukalam.",
+                "Unga kitta 50 k irundha podhum , Maasam 1 lakh earn panlam."
+            ]
+        },
+        {
+            "pattern": "(TG) (Mistake) (Solution)",
+            "examples": [
+                "Freelancing panravanga panra periya thappe , Skill ella irundhalu time ku project kuduka matanga."
+            ]
+        },
+        {
+            "pattern": "(Real world Example) - (Niche Example)",
+            "examples": [
+                "Ajith ah ve irundhalu , 1 flop ana kuda avlo trolls varum bodhu , Namma podura reel odala nu feel pannalama?"
+            ]
+        },
+        {
+            "pattern": "Reason - Assertion",
+            "examples": [
+                "Ganguly , Dhoni , Kolhi ellarayu yen Successfull Captians nu solranga theriyuma ? Yen na , avanga indha 3 Leadership skills ah follow panranga."
+            ]
+        }
+    ],
+    "writing_checklist": {
+        "requirements": [
+            "Emotion Spike",
+            "Retention till end",
+            "5 As (Authority, Authenticity, Aspiration, Affinity, Artistic)",
+            "BGM matching mood/tone",
+            "Timing: 40-50 sec (1 min max)",
+            "Out of the box content",
+            "Encourage saves & shares",
+            "Camera angles",
+            "Relevant montages",
+            "Hook -> Story -> Transition -> Value -> CTA"
+        ]
+    },
+    "packaging": {
+        "universal_topics": [
+            "Love",
+            "Marriage",
+            "Career",
+            "9-5",
+            "Business",
+            "Friends",
+            "Education",
+            "Family",
+            "Money",
+            "Health",
+            "Relatives"
+        ],
+        "tg_core": [
+            "Tone based",
+            "Face shape",
+            "Salary",
+            "Age",
+            "Gender",
+            "Love type",
+            "Moments based",
+            "Work mode",
+            "Timeline events",
+            "Physical traits",
+            "Movies",
+            "Trend debunking",
+            "A-B transition",
+            "Desire cliffhanger",
+            "Demographics",
+            "Checklist moments",
+            "Punch dialogue",
+            "Meme",
+            "Comparison",
+            "Personality type",
+            "Issues"
+        ],
+        "actionable_steps": [
+            "Tips",
+            "Things to follow",
+            "Mistakes",
+            "Myths",
+            "Secrets",
+            "Experiences",
+            "Case studies",
+            "Tools",
+            "Step-by-step guide",
+            "Do's & Don'ts",
+            "Checklist",
+            "Q&A",
+            "Options",
+            "Comparisons",
+            "Research based"
+        ]
+    },
+    "ideation_aspects": {
+        "packaging": [
+            "Feeling/Emotion + Universal Topics",
+            "TG must contain a specific large group",
+            "Visual: Cinema, Social Hacking, Meme, Music, 1st Montage, Celebrities/Influencers"
+        ],
+        "actionable_steps": "How actionable & easy to execute",
+        "pain_desire": "Must hit TG's problem point & desire",
+        "relevance": "Must connect & feel relevant to viewers",
+        "a_b_transition": "Reel must be a journey with hope"
+    }
+}
