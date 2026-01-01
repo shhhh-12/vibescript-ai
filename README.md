@@ -10,6 +10,17 @@ Transform raw ideas into **performance-ready scripts** using AI — with support
 
 ---
 
+Step 1: Get your api key form openrouter - https://openrouter.ai/settings/keys
+<img width="973" height="945" alt="Screenshot 2026-01-01 122943" src="https://github.com/user-attachments/assets/703cefb7-1573-4048-90f5-8475bb3fc0ff" />
+
+Step 2: Add your content and select between 3 Languages , 12 Tones and 6 Formats
+<img width="1201" height="943" alt="Screenshot 2026-01-01 123013" src="https://github.com/user-attachments/assets/5a0979fd-44ec-429d-961d-34c3907d9f21" />
+
+
+
+
+
+
 ## 🌟 Features
 
 ✅ **3 Languages**
