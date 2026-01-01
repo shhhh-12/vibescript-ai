@@ -11,14 +11,36 @@ Transform raw ideas into **performance-ready scripts** using AI — with support
 ---
 
 Step 1: Get your api key form openrouter - https://openrouter.ai/settings/keys
+
 <img width="973" height="945" alt="Screenshot 2026-01-01 122943" src="https://github.com/user-attachments/assets/703cefb7-1573-4048-90f5-8475bb3fc0ff" />
 
 Step 2: Add your content and select between 3 Languages , 12 Tones and 6 Formats
+
 <img width="1201" height="943" alt="Screenshot 2026-01-01 123013" src="https://github.com/user-attachments/assets/5a0979fd-44ec-429d-961d-34c3907d9f21" />
 
+Why should it i use it over chat gpt ?
+
+- Its free and opensource 
+- you need not hire an script writer 
+- its quick and you can test your ideas 
+- camera angle and bgm suggestion
+
+- USE IT BCZ I MADE IT
 
 
 
+Sample flow 
+
+<img width="1105" height="642" alt="Screenshot 2026-01-01 125300" src="https://github.com/user-attachments/assets/9beea27b-d7a4-4b80-9931-885cc200b794" />
+
+You can edit your script if you want 
+<img width="1103" height="527" alt="Screenshot 2026-01-01 125332" src="https://github.com/user-attachments/assets/3d27bf21-4829-4f5c-98f8-acecac9b5bc8" />
+
+You can know when to give a space and when to bold your tone
+<img width="1103" height="574" alt="Screenshot 2026-01-01 125343" src="https://github.com/user-attachments/assets/091d47c1-2f3b-42cd-aae7-4054e51489dc" />
+
+You are ready to shoot!!
+<img width="1034" height="750" alt="Screenshot 2026-01-01 125359" src="https://github.com/user-attachments/assets/3b8ca154-53f0-4ca6-9764-bc5cf5c0c979" />
 
 
 ## 🌟 Features
