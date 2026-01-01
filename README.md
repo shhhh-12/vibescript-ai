@@ -76,8 +76,7 @@ Transform raw ideas into **performance-ready scripts** using AI — with support
 
 🌐 **Live App:**
 👉 *Deployed on Vercel*
-`https://vibe-script.vercel.app` *(example)*
-
+https://vibescript-ai-6zbe.vercel.app/
 ---
 
 ## 🛠️ Tech Stack
